@@ -5,6 +5,7 @@
 <h2 align="center">
     <b>Documentation</b> 
     </h2>
+- German Documentation: https://github.com/dahlia-os/documentation/blob/localization/localization/de/README.md/
 <br />
 
 <h2 align="center">
